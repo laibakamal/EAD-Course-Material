@@ -97,18 +97,23 @@ namespace lec5Linq
 {
     public class Program
     {
+        //DEBUG THIS PROGRAM TO CHECK WHAT IS HAPPENING ACTUALLY
         public static void Main(string[] args)
         {
+            //1- define data source
             string[] cities = new string[]
             {
                 "LHR","KHI","ISL","Istanbul"
             };
 
-
+            //2- define query
             //is where k function me aisi function pass krna hai jo string value receive kry ga aur bool return kry ga
-            var query = cities.Where(NameLongerThanFour);
+            var query = cities.Where(NameLongerThanFour);//important :  QUERY IS DEFINED ONLYYYYYYY, DATA IS NOT RETRIEVED, NEITHER THE QUERY ISN EXECUTED
 
-            foreach (var city in query)
+
+            //3- Query Execution
+            //here the query is being executed, where we are actually using it.
+            foreach (var city in query)//QUERY EXECUTION
             {
                 Console.WriteLine(city);
             }
