@@ -1,0 +1,5 @@
+1) introduction 
+2) N tier architecture
+
+
+(on register)
