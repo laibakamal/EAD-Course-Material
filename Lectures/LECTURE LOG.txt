@@ -1,0 +1,62 @@
+Lecture 1: 28/2/2022
+Holiday
+
+
+Lecture 2: 2/3/2022
+--> intro 
+--> N-tier architecture
+==> YT lec 16, 17, 18, 19
+
+
+Lecture 3: 7/3/2022
+--> Delegates basics
+
+
+Lecture 4: 9/3/2022
+--> delegates continued (external library scenario)
+--> WPF forms
+--> Anonymous functions (anonymous methods, lambda statements)
+==> gitHub lec 19 --> delegates
+==> gitHub lec 20 --> action, function delegates
+
+
+Lecture 5: 14/3/2022
+--> delegates continued (event handling)
+--> Window forms
+
+
+Lecture 6: 16/3/2022
+Holiday
+
+
+Lecture 7: 21/3/2022
+--> Event Handling
+--> LINQ 
+
+
+Lecture 8: 23/3/2022
+Holiday
+
+
+
+VACATIONS: 25th march - 10th april
+
+
+Lecture 9: 11/4/2022
+--> Use of query syntax and lambda statement with LINQ
+==> YT lec 62, 63
+
+
+Lecture 10: 13/4/2022
+--> Introduction to MVC in ASP.Net
+--> Basic use of controller and IIS Express
+==> YT lec 48
+
+
+Lecture 11: 18/4/2022
+Sir nahi aye
+
+
+Lecture 12: 20/4/2022
+--> sign up page using MVC
+==> lec 48, 49, 50 me se koi hoga
