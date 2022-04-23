@@ -13,6 +13,7 @@ Lecture 2: 2/3/2022
 (2)
 Lecture 3: 7/3/2022
 --> Delegates basics
+==> YT lec 18
 
 
 
