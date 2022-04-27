@@ -52,7 +52,7 @@ namespace Lecture6
             Student s2 = new Student { RollNum=2, Name="Iqra" };
             Student[] s = new Student[] { s1, s2 };
 
-            var query1 = from n in s where n.Name.Length>4 select (s1.Name, s1.RollNum);
+            var query1 = from n in s where n.Name.Length>4 select (n.Name, n.RollNum);
 
             foreach (var n in query1)//QUERY EXECUTION
             {

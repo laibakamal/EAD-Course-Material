@@ -1,13 +1,13 @@
 
 
-    YT lec 17, 18, 19, 20, 24, 25, 26, 63, 64, 65, 48, 49, 50
+    YT lec 17, 18, 19, 20, 24, 25, 26, 48, 49, 50, 51, 63, 64, 65
 
 
     17, 18 ==> N-tier architecture
     18,19,20 ==> delegates
     24,25,26 ==> event handling
     63,64,65 ==> LINQ
-    48,49,50 ==> MVC
+    48,49,50,51 ==> MVC
 
 
 Lecture 1: 28/2/2022
@@ -44,7 +44,7 @@ Lecture 4: 9/3/2022
 Lecture 5: 14/3/2022
 --> delegates continued(event handling)
 --> Window forms
---> homework: basic calculator using MVC
+--> homework: basic calculator using window forms
 
 
 Lecture 6: 16/3/2022

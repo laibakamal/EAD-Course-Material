@@ -4,59 +4,59 @@
 //notes lec #4
 
 
-//using System;
-//namespace Events
-//{
-//    delegate void MyEventHandler();
+using System;
+namespace Events
+{
+    delegate void MyEventHandler();
 
-//    //publisher class
-//    class Button
-//    {
-//        public event MyEventHandler click;//defining event
+    //publisher class
+    class Button
+    {
+        public event MyEventHandler click;//defining event
 
-//        public void OnClick()
-//        {
-//            if (click!=null)
-//            {
-//               //firing event
-//                click();
-//            }
-//        }
-//    }
+        public void OnClick()
+        {
+            if (click!=null)
+            {
+                //firing event
+                click();
+            }
+        }
+    }
 
 
-//    class MyClass
-//    {
-//        public void MyEventHandlerFunction()
-//        {
-//            Console.WriteLine("Perform this action.....");
-//        }
-//    }
-//    class Program
-//    {
-//        public static void Main(string[] args)
-//        {
-//            Button button = new Button();
-//            //+= is used to register an event
-//            //1-- using lambda statement
-//            button.click+=() => Console.WriteLine("A click event is fired.");//event is listened
+    class MyClass
+    {
+        public void MyEventHandlerFunction()
+        {
+            Console.WriteLine("Perform this action.....");
+        }
+    }
+    class Program
+    {
+        public static void Main(string[] args)
+        {
+            Button button = new Button();
+            //+= is used to register an event
+            //1-- using lambda statement
+            button.click+=() => Console.WriteLine("A click event is fired.");//event is listened
 
-//            //2--using event handler claass/function
-//            MyClass myClass = new MyClass();
-//            button.click+=myClass.MyEventHandlerFunction;
+            //2--using event handler claass/function
+            MyClass myClass = new MyClass();
+            button.click+=myClass.MyEventHandlerFunction;
 
-//            //3---using anonymous function
-//            button.click +=  delegate
-//             {
-//                 Console.WriteLine("AOA Pakistan!");
-//             };
+            //3---using anonymous function
+            button.click +=  delegate
+             {
+                 Console.WriteLine("AOA Pakistan!");
+             };
 
-//            //firing the event
-//            button.OnClick();//button clicked
-//        }
-//    }
+            //firing the event
+            button.OnClick();//button clicked
+        }
+    }
 
-//}
+}
 
 
 

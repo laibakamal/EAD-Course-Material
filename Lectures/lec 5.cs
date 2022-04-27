@@ -5,61 +5,61 @@
 //lecture 5
 
 
-//using System;
-//using System.Collections;
+using System;
+using System.Collections;
 
-//namespace Lec5
-//{
+namespace Lec5
+{
 
-//    class MyEventArgs : EventArgs
-//    {
-//        public int Count { get; set; }
-//        public object ListData { get; set; }
-//    }
+    class MyEventArgs : EventArgs
+    {
+        public int Count { get; set; }
+        public object ListData { get; set; }
+    }
 
-//    class Program
-//    {
-//        //first parameter will be object, second parameter will be a event args or a class inherited from event args class,
-//        //jub bhi event se related koi extra info bhenni hogi
-//        delegate void EventHandler(object sender, MyEventArgs e);
-//        delegate void EventHandlerr(object sender, EventArgs e);
+    class Program
+    {
+        //first parameter will be object, second parameter will be a event args or a class inherited from event args class,
+        //jub bhi event se related koi extra info bhejni hogi
+        delegate void EventHandler(object sender, MyEventArgs e);
+        delegate void EventHandlerr(object sender, EventArgs e);
 
-//        //publisher class
-//        //is k 2 kaam hoty hein: event ko define krna aur raise krna
-//        class MyArrayList : ArrayList
-//        {
-//            public event EventHandler Added;
-//            private int c = 1;
-//            public void OnAdded(object value)
-//            {
-//                MyEventArgs args = new MyEventArgs();
-//                args.Count=c++;
-//                args.ListData =value; 
-//                //raising/firing the event
-//                Added(this, args);
-//            }
-//            public override int Add(object? value)//ye method array list ki class me already defined hai
-//            {
-//                OnAdded(value);
-//                return base.Add(value);
-//            }
-//        }
-//        public static void Main(string[]args)
-//        {
-//            MyArrayList list = new MyArrayList();
-//            list.Added+=delegate (object sender, MyEventArgs e)
-//            {
-//                Console.WriteLine($"Count: {e.Count}\t\tData: {e.ListData}");
-//            };
-//            list.Add(12);
-//            list.Add("amna");
-//            list.Add(0.5M);
-//            list.Add('y');
+        //publisher class
+        //is k 2 kaam hoty hein: event ko define krna aur raise krna
+        class MyArrayList : ArrayList
+        {
+            public event EventHandler Added;
+            private int c = 1;
+            public void OnAdded(object value)
+            {
+                MyEventArgs args = new MyEventArgs();
+                args.Count=c++;
+                args.ListData =value;
+                //raising/firing the event
+                Added(this, args);
+            }
+            public override int Add(object? value)//ye method array list ki class me already defined hai
+            {
+                OnAdded(value);
+                return base.Add(value);
+            }
+        }
+        public static void Main(string[] args)
+        {
+            MyArrayList list = new MyArrayList();
+            list.Added+=delegate (object sender, MyEventArgs e)
+            {
+                Console.WriteLine($"Count: {e.Count}\t\tData: {e.ListData}");
+            };
+            list.Add(12);
+            list.Add("amna");
+            list.Add(0.5M);
+            list.Add('y');
 
-//        }
-//    }
+        }
+    }
 
-//}
+}
 
 
 //task 1: hum list ka count maintain krna chah ry hein k jitni baar list me koi data
