@@ -1,0 +1,27 @@
+1-
+entity framework 5 lectures
+code first
+db first
+db first with code first
+code first --> migrations, relations, foreign key, etc.
+
+2-
+MVC
+All topics
+
+3- 
+Jquery AJAX
+
+4- dep injection, repo pattern (S/Q)
+
+5- restful services --> 58,59
+
+Short Question:-
+Docker (commands aani chahiyen, docker file kese bnani hai)
+
+Docker Compose:- 
+official website pe jaa k  isko asp.net mvc k sath use krny ka tareeka follow kr lein, bn jaye ga.
+
+identity not included.
+
+viva sheet walay sary topics krny hein

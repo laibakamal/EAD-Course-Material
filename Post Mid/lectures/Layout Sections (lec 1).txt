@@ -1,0 +1,77 @@
+//In index.cshtml:
+
+@section s1
+{
+    <h1>Hellow from the section named S1 made by Laiba Kamal!</h1>
+}
+   
+
+//In layout.cshtml:
+
+@RenderSection("s1",required:false)
+
+
+
+
+//In privacy.cshtml:
+
+@section s2
+{
+    <h1>Hellow from the section named s2 made by Laiba Kamal!</h1>
+}
+
+
+
+//In layout.cshtml
+@RenderSection("s2",required:false)
+
+
+
+
+//Now, we want k ek default html rkhi hui ho k agr 
+//section na mily tou wo html display hojaye section ki jaga.
+
+
+//In index.cshtml:
+
+@section s1
+{
+    <h1>Hellow from the section named S1 made by Laiba Kamal!</h1>
+}
+   
+
+//In layout.cshtml:
+
+        @if(IsSectionDefined("s1"))
+        {
+            @RenderSection("s1");
+        }
+        else
+        {
+            <h1>s1 not found</h1>
+        }
+
+
+
+
+//Now, we wanna include a script.js file in index.cshtml only. So, its obvious to use sections here!
+
+//In index.cshtml:
+@section JsFile
+{
+    <script src="scripted.js"></script>
+}
+
+
+//In layout.cshtml:
+
+
+        @if(IsSectionDefined("JsFile"))
+        {
+            @RenderSection("JsFile");
+        }
+        else
+        {
+            <h1>JsFile not found</h1>
+        }
+

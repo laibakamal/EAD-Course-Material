@@ -1,0 +1,121 @@
+//create a VS project (asp.net core empty and paste these two tasks one by one in program.cs file to understand them)
+
+
+
+
+
+////POST MID LECTURE 1 :-
+
+
+
+//var builder = WebApplication.CreateBuilder(args);
+//var app = builder.Build();//app is object of web app
+
+
+////TASK 1: create middleware pipelne such that three strings are printed one by one:
+////AOA!
+////Welcome
+////Hellow World!
+////Also, first and second middleware should be custom and third should be default
+
+
+////custom middleware
+//app.Use(async (context, next) =>
+//{
+//    //Her middleware component k paas (req aur response) k 
+//    //objects hone chahiyen aur next component k paas jaany
+//    //k liye 'next' bhi hona chahiye
+//    //here,     context --> req & response
+//    //next --> next
+
+//    context.Response.ContentType="text/plain";//content type bas ek baar hi btani hoti hai pehle middleware mein
+//    await context.Response.WriteAsync("AOA!!!\n");
+//    await next();
+
+//    //request jub bhi aani hai, request pipeline se ho k guzarni hai,
+//    //isliye humen middleware create krny k baad usy call krny ki zarurat nahi hai
+//}
+//);
+
+//app.Use(async (context, next) =>
+//{
+//    await context.Response.WriteAsync("Welcome\n");
+//    await next();
+//});
+
+////MapGet is default extension method which is creating default middleware.
+////first param is request "/" 
+////second param is what to respond to the req
+//app.MapGet("/", () => "Hello World!\n");//creates default middleware
+
+//app.Run();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+////POST MID LECTURE 2 :- TASK OF MIDDLEWARES
+
+
+////TASK:     we are to check how the request and response pass through request pipeline.
+////we are to check their flow
+
+////The folllowing code will help us understand that which snippet of MW runs when
+
+
+//var builder = WebApplication.CreateBuilder(args);
+//var app = builder.Build();//app is object of web app
+
+////custom middleware
+//app.Use(async (context, next) =>
+//{
+//    //Her middleware component k paas (req aur response) k 
+//    //objects hone chahiyen aur next component k paas jaany
+//    //k liye 'next' bhi hona chahiye
+//    //here,     context --> req & response
+//    //next --> next
+
+//    context.Response.ContentType="text/plain";//content type bas ek baar hi btani hoti hai pehle middleware mein
+//    await context.Response.WriteAsync("First middleware before next!\n");
+//    await next();
+//    await context.Response.WriteAsync("First middleware after next!\n");
+
+//    //request jub bhi aani hai, request pipeline se ho k guzarni hai,
+//    //isliye humen middleware create krny k baad usy call krny ki zarurat nahi hai
+//}
+//);
+
+//app.Use(async (context, next) =>
+//{
+//    await context.Response.WriteAsync("Second middleware before next!\n");
+//    await next();
+//    await context.Response.WriteAsync("Second middleware after next!\n");
+//});
+
+//app.Run(async (context) =>
+//{
+//    await context.Response.WriteAsync("Terminal middleware!\n");
+//});
+
+//app.Run();

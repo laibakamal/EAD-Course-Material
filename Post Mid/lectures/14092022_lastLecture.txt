@@ -1,0 +1,76 @@
+14/09/2022
+Wednesday
+A.v. lec # 10
+web services
+
+
+A.V. lec#9--> ViVa
+
+web services/ rational services
+
+abhii tak jo kaam kia hai, us me frontend or backend ek hi jaga thy.
+lekin hum frontend kisi bhi tehcnology (react, web app, mobile app etc.) me rkh skty hein, backend NOde.js(C#) me hi ho chahy
+
+
+Service oriented architecture is used for this purpose. 
+
+
+RestFul services or rest services:- (to define a service)
+1) URL
+2) method (HTTP method such as get, post, put, delete)
+
+frontend ko sirf data chahiye is case me tou yahan hamara controller(service) view ki bjaye sirf data return kry ga.
+
+
+request--> URL + method
+response --> data (JSON format)
+
+
+
+create VS project (ASP.net core web API)
+
+
+
+jese MVC me controller k ander repo k functions call kiye thy, aisy hi API controller me krny hein, bas yaha controller type diff hai
+
+
+swagger provides you frontend to send request to endpoint of API
+
+
+
+localhost: ..... /api/student/abc   
+
+online lec 58 
+1 ques aaye ga web api/services se
+
+
+
+
+
+
+
+
+
+
+
+there are CRud methods in repo class, also there are functions like getBYID
+
+for funcs like getBYID:-
+[Route("find/{id}")]
+link on browser:- ....../api/Student/find/2
+2 is id
+
+
+
+for add method: you can not test it using web browser, need to use postman, swagger, etc
+
+
+Methods:-
+get
+post (to add/post new data for the first time)
+put --> update
+delete--> delete
+
+
+
+

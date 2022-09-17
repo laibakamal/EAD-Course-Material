@@ -1,0 +1,66 @@
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfo.cs
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cs
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\appsettings.Development.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\appsettings.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.staticwebassets.runtime.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.exe
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.deps.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.runtimeconfig.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.dll
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.pdb
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMapper.dll
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\staticwebassets.build.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\staticwebassets.development.json
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\bundle\AutoMappersMVCExample.styles.css
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\projectbundle\AutoMappersMVCExample.bundle.scp.css
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.CopyComplete
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.dll
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\refint\AutoMappersMVCExample.dll
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.pdb
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.genruntimeconfig.cache
+C:\Shuja\Code Examples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\ref\AutoMappersMVCExample.dll
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.AssemblyReference.cache
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfoInputs.cache
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfo.cs
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.CoreCompileInputs.cache
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.MvcApplicationPartsAssemblyInfo.cache
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cache
+C:\Shuja\Code Examples\CodeExamples\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.AssemblyReference.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.GeneratedMSBuildEditorConfig.editorconfig
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfoInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.AssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.CoreCompileInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.MvcApplicationPartsAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.RazorAssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\appsettings.Development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\appsettings.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.staticwebassets.runtime.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.exe
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.deps.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.runtimeconfig.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMappersMVCExample.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMapper.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\staticwebassets.build.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\staticwebassets.development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\bundle\AutoMappersMVCExample.styles.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\scopedcss\projectbundle\AutoMappersMVCExample.bundle.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.csproj.CopyComplete
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\refint\AutoMappersMVCExample.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\AutoMappersMVCExample.genruntimeconfig.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\AutoMappersMVCExample\AutoMappersMVCExample\obj\Debug\net6.0\ref\AutoMappersMVCExample.dll
