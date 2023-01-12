@@ -24,3 +24,29 @@ C:\Shuja\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Deb
 C:\Shuja\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.pdb
 C:\Shuja\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.genruntimeconfig.cache
 C:\Shuja\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\ref\FileUploadingExampleMVC6.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\appsettings.Development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\appsettings.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.staticwebassets.runtime.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.exe
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.deps.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.runtimeconfig.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\bin\Debug\net6.0\FileUploadingExampleMVC6.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.csproj.AssemblyReference.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.GeneratedMSBuildEditorConfig.editorconfig
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.AssemblyInfoInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.AssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.csproj.CoreCompileInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.MvcApplicationPartsAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.RazorAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.RazorAssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\staticwebassets.build.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\staticwebassets.development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\scopedcss\bundle\FileUploadingExampleMVC6.styles.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\scopedcss\projectbundle\FileUploadingExampleMVC6.bundle.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\refint\FileUploadingExampleMVC6.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\FileUploadingExampleMVC6.genruntimeconfig.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\Code Examples\FileUploadingExampleMVC6\FileUploadingExampleMVC6\obj\Debug\net6.0\ref\FileUploadingExampleMVC6.dll

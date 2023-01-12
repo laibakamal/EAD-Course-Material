@@ -24,3 +24,29 @@ C:\Shuja\Code Examples\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net
 C:\Shuja\Code Examples\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.pdb
 C:\Shuja\Code Examples\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.genruntimeconfig.cache
 C:\Shuja\Code Examples\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\ref\FileUploadingWithAjax.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\appsettings.Development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\appsettings.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.staticwebassets.runtime.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.exe
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.deps.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.runtimeconfig.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\bin\Debug\net6.0\FileUploadingWithAjax.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.csproj.AssemblyReference.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.GeneratedMSBuildEditorConfig.editorconfig
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.AssemblyInfoInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.AssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.csproj.CoreCompileInputs.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.MvcApplicationPartsAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.RazorAssemblyInfo.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.RazorAssemblyInfo.cs
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\staticwebassets.build.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\staticwebassets.development.json
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\scopedcss\bundle\FileUploadingWithAjax.styles.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\scopedcss\projectbundle\FileUploadingWithAjax.bundle.scp.css
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\refint\FileUploadingWithAjax.dll
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.pdb
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\FileUploadingWithAjax.genruntimeconfig.cache
+E:\EEEEEEEEEEE\SEMESTER 6\EAD\CODE EXAMPLES\FileUploadingWithAjax\FileUploadingWithAjax\obj\Debug\net6.0\ref\FileUploadingWithAjax.dll
